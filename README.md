@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarelQuick
-- 👀 I’m now interested in pocsag
+- 👀 I’m now interested in pocsag, Flex and P2000
 - 🌱 I’m currently learning Gàidhlig
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
